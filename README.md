@@ -73,7 +73,7 @@ Gracias a esa observación se replanteó la forma de gestionar las consultas dig
 
 **Commits Relevantes:**
 
-- [Commit-1](https://github.com/aldanagaitan/blog-tecnico-final/commit/c770e3197fa5d9852afde0f52c20be0c4cdb3682).
-- [Commit-2](https://github.com/aldanagaitan/blog-tecnico-final/commit/0caf80ae296dc0cc5053aba76a457d4076bb2d5f).
-- [Commit-3](https://github.com/aldanagaitan/blog-tecnico-final/commit/66a8b335319a7f7c95eefac4ed7f87bdd68c4eb1).
+- [Commit-1](https://github.com/aldanagaitan/blog-tecnico-final/commit/c770e3197fa5d9852afde0f52c20be0c4cdb3682).https://github.com/aldanagaitan/blog-tecnico-final/commit/c770e3197fa5d9852afde0f52c20be0c4cdb3682
+- [Commit-2](https://github.com/aldanagaitan/blog-tecnico-final/commit/0caf80ae296dc0cc5053aba76a457d4076bb2d5f).https://github.com/aldanagaitan/blog-tecnico-final/commit/0caf80ae296dc0cc5053aba76a457d4076bb2d5f
+- [Commit-3](https://github.com/aldanagaitan/blog-tecnico-final/commit/66a8b335319a7f7c95eefac4ed7f87bdd68c4eb1).https://github.com/aldanagaitan/blog-tecnico-final/commit/66a8b335319a7f7c95eefac4ed7f87bdd68c4eb1
 
