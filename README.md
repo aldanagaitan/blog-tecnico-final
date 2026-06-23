@@ -54,15 +54,19 @@ La ausencia de un proceso centralizado generaba inconsistencias en la comunicaci
 *Durante el desarrollo del proyecto se documentaron las modificaciones realizadas en el repositorio de GitHub mediante commits periódicos.
 Esta práctica permitió registrar los cambios implementados, mantener trazabilidad sobre las mejoras realizadas y documentar el proceso de aprendizaje de forma ordenada.*
 
-Commits Relevantes
-Commit 1: Creación de la estructura inicial del blog.
-Commit 2: Desarrollo de las secciones Contexto y Problema.
-Commit 3: Incorporación de acciones correctivas y aprendizajes.
-Commit 4: Revisión final y publicación en GitHub Pages.
-Reflexión sobre Feedback Radicalmente Sincero
-Durante el análisis surgió un comentario recurrente por parte de algunos clientes: "Muchas veces la respuesta tarda demasiado y terminamos buscando otra opción".
+**Commits Relevantes**
+*Commit 1: Creación de la estructura inicial del blog.*
+*Commit 2: Desarrollo de las secciones Contexto y Problema.*
+*Commit 3: Incorporación de acciones correctivas y aprendizajes.*
+*Commit 4: Revisión final y publicación en GitHub Pages.*
+
+**Reflexión sobre Feedback Radicalmente Sincero**
+
+*Durante el análisis surgió un comentario recurrente por parte de algunos clientes: "Muchas veces la respuesta tarda demasiado y terminamos buscando otra opción".
 Aunque este feedback fue incómodo, permitió reconocer una debilidad importante en el proceso de atención.
-Gracias a esa observación se replanteó la forma de gestionar las consultas digitales y se implementaron mejoras que optimizaron la experiencia del cliente. Este caso demostró que el feedback honesto, aunque pueda resultar desafiante, es una herramienta fundamental para el crecimiento y la mejora continua.
-Conclusión
-La experiencia permitió comprobar que una correcta gestión de la comunicación digital puede mejorar significativamente la relación con los clientes. La aplicación de herramientas organizativas, el análisis constante de resultados y la apertura al feedback contribuyeron a desarrollar un proceso más eficiente y alineado con las necesidades del mercado actual.
+Gracias a esa observación se replanteó la forma de gestionar las consultas digitales y se implementaron mejoras que optimizaron la experiencia del cliente. Este caso demostró que el feedback honesto, aunque pueda resultar desafiante, es una herramienta fundamental para el crecimiento y la mejora continua.*
+
+**Conclusión**
+
+*La experiencia permitió comprobar que una correcta gestión de la comunicación digital puede mejorar significativamente la relación con los clientes. La aplicación de herramientas organizativas, el análisis constante de resultados y la apertura al feedback contribuyeron a desarrollar un proceso más eficiente y alineado con las necesidades del mercado actual.*
 
