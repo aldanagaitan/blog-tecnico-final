@@ -70,3 +70,10 @@ Gracias a esa observación se replanteó la forma de gestionar las consultas dig
 
 *La experiencia permitió comprobar que una correcta gestión de la comunicación digital puede mejorar significativamente la relación con los clientes. La aplicación de herramientas organizativas, el análisis constante de resultados y la apertura al feedback contribuyeron a desarrollar un proceso más eficiente y alineado con las necesidades del mercado actual.*
 
+
+**Commits Relevantes:**
+
+- [Commit-1](https://github.com/aldanagaitan/blog-tecnico-final/commit/c770e3197fa5d9852afde0f52c20be0c4cdb3682).
+- [Commit-2](https://github.com/aldanagaitan/blog-tecnico-final/commit/0caf80ae296dc0cc5053aba76a457d4076bb2d5f).
+- [Commit-3](https://github.com/aldanagaitan/blog-tecnico-final/commit/66a8b335319a7f7c95eefac4ed7f87bdd68c4eb1).
+
