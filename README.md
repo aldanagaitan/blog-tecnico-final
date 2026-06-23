@@ -43,14 +43,17 @@ La ausencia de un proceso centralizado generaba inconsistencias en la comunicaci
 
 **Aprendizajes**
 *La implementación de estas mejoras permitió obtener conclusiones importantes:*
-*La rapidez en la respuesta influye directamente en la experiencia del cliente.*
-*La organización digital facilita la gestión comercial.
-El seguimiento sistemático reduce la pérdida de oportunidades.
-La mejora continua requiere medir resultados y adaptarse constantemente.
-La tecnología es una herramienta clave para optimizar la comunicación empresarial.
-Relación entre el Control de Versiones y la Mejora Continua
-Durante el desarrollo del proyecto se documentaron las modificaciones realizadas en el repositorio de GitHub mediante commits periódicos.
-Esta práctica permitió registrar los cambios implementados, mantener trazabilidad sobre las mejoras realizadas y documentar el proceso de aprendizaje de forma ordenada.
+- La rapidez en la respuesta influye directamente en la experiencia del cliente.
+- La organización digital facilita la gestión comercial.
+- El seguimiento sistemático reduce la pérdida de oportunidades.
+- La mejora continua requiere medir resultados y adaptarse constantemente.
+- La tecnología es una herramienta clave para optimizar la comunicación empresarial.
+
+**Relación entre el Control de Versiones y la Mejora Continua**
+
+*Durante el desarrollo del proyecto se documentaron las modificaciones realizadas en el repositorio de GitHub mediante commits periódicos.
+Esta práctica permitió registrar los cambios implementados, mantener trazabilidad sobre las mejoras realizadas y documentar el proceso de aprendizaje de forma ordenada.*
+
 Commits Relevantes
 Commit 1: Creación de la estructura inicial del blog.
 Commit 2: Desarrollo de las secciones Contexto y Problema.
