@@ -33,7 +33,7 @@ La ausencia de un proceso centralizado generaba inconsistencias en la comunicaci
 **1. Identificación de los puntos críticos**
 *Se analizaron los tiempos de respuesta y los motivos más frecuentes de consulta para detectar los principales cuellos de botella.*
 **2. Organización de la información**
-*Se implementó una planilla compartida para registrar cada consulta, incluyendo fecha, canal de contacto, interés del cliente y estado de seguimiento.*
+*Se implementó una planilla de seguimiento con las siguientes columnas: Fecha de consulta / Canal de contacto (WhatsApp, Facebook, Instagram) / Nombre del cliente / Motivo de consulta / Estado (pendiente, en proceso, cerrado) / Fecha de respuesta. Esta estructura permitió centralizar la información y evitar que las consultas quedaran sin atención.*
 **3. Creación de respuestas rápidas**
 *Se desarrollaron mensajes estandarizados para responder preguntas frecuentes sobre instalación, monitoreo, presupuestos y formas de pago.*
 **4. Seguimiento de oportunidades**
@@ -48,6 +48,7 @@ La ausencia de un proceso centralizado generaba inconsistencias en la comunicaci
 - El seguimiento sistemático reduce la pérdida de oportunidades.
 - La mejora continua requiere medir resultados y adaptarse constantemente.
 - La tecnología es una herramienta clave para optimizar la comunicación empresarial.
+- Antes de la mejora, el tiempo promedio de primera respuesta era de 48 a 72 horas. Tras implementar las mejoras, se logró reducirlo en menos de 4 horas, lo que impactó positivamente en la tasa de conversión de consultas en presupuestos concretos.
 
 **Relación entre el Control de Versiones y la Mejora Continua**
 
@@ -65,6 +66,7 @@ Esta práctica permitió registrar los cambios implementados, mantener trazabili
 *Durante el análisis surgió un comentario recurrente por parte de algunos clientes: "Muchas veces la respuesta tarda demasiado y terminamos buscando otra opción".
 Aunque este feedback fue incómodo, permitió reconocer una debilidad importante en el proceso de atención.
 Gracias a esa observación se replanteó la forma de gestionar las consultas digitales y se implementaron mejoras que optimizaron la experiencia del cliente. Este caso demostró que el feedback honesto, aunque pueda resultar desafiante, es una herramienta fundamental para el crecimiento y la mejora continua.*
+*De cara al próximo ciclo, incorporaría una herramienta de CRM básica para automatizar parte del seguimiento y poder escalar el proceso sin depender de una planilla manual.*
 
 **Conclusión**
 
